@@ -1,6 +1,12 @@
-NOTE: Cloudera ML is no longer actively developed; please checkout [Oryx](https://github.com/cloudera/oryx),
+In The Attic
+============
+
+Hello! `cloudera/ml` is no longer being developed. It will remain available here but will not be updated further.
+Please checkout [Oryx](https://github.com/cloudera/oryx) or [Oryx 2](https://github.com/OryxProject/oryx),
 which includes much of the ML functionality along with support for random decision forests and ALS-based
 recommendation engines.
+
+Now, back to the `README`...
 
 Introduction
 ------------
